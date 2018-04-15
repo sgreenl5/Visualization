@@ -1,7 +1,7 @@
 # Visualization
 C and Python scripts, 2018
 
-Scientific visualization projects using the following tools and techniques:
+Scientific visualization using the following tools and techniques:
 
 Streamlines,
 Runga Kutta-4, 
