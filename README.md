@@ -1,5 +1,5 @@
 # Visualization
-C and Python scripts, 2018
+C++ and Python scripts, 2018
 
 Scientific visualization using the following tools and techniques:
 
